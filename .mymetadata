@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="javawebxx_zhaopin"
+  id="myeclipse.1434333815463"
+  context-root="/javawebxx_zhaopin"
+  j2ee-spec="6.0"
+  archive="javawebxx_zhaopin.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
